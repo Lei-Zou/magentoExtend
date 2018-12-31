@@ -1,0 +1,7 @@
+<integrations>
+    <integration name="Magentotest">
+        <email>info@teest.com</email>
+        <endpoint_url>http://localhost/endpoint</endpoint_url>
+        <identity_link_url>http://localhost/login</identity_link_url>
+    </integration>
+</integrations>
