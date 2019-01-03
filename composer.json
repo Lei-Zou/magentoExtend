@@ -2,7 +2,7 @@
   "name": "magentotest/core",
   "description": "magento extension test",
   "type": "magento2-module",
-  "version": "1.1.0",
+
   "minimum-stability" : "dev",
   "autoload": {
     "psr-4": {
